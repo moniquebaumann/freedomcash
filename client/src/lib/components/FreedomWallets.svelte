@@ -1,8 +1,8 @@
 <script>
 </script>
 
-<h4>Geldbeutel der Freiheit</h4>
-<p><br /></p>
+
+<p><br /><br><br></p>
 <h6>Schnellkurs Online Geldbeutel</h6>
 <p><br /></p>
 
