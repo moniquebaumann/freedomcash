@@ -1,8 +1,6 @@
 # Freiheitsgeld 
-## Unsere Währungen
-1. Freiheit (Smart Contract Adresse: [0x099471B71c9D8b0C6b616eE9A7C645e22cA9cfF7](https://polygonscan.com/token/0x099471B71c9D8b0C6b616eE9A7C645e22cA9cfF7))
-2. Friede   (Smart Contract Addresse: [0x0715184614CA1e90EafDf7A4d7fE33B046b47C02](https://polygonscan.com/token/0x0715184614CA1e90EafDf7A4d7fE33B046b47C02))
-3. Geo Cash (Smart Contract Addresse: [0xb841A4f979F9510760ecf60512e038656E68f459](0xb841A4f979F9510760ecf60512e038656E68f459))
+## Unsere Internetseite
+[FreedomCash.org](https://FreedomCash.org)
 
 ## Unsere Ziele
 Wir möchten Menschen für Freiheit, Weltfrieden und Freundschaft begeistern.
