@@ -84,9 +84,10 @@ Wir haben davon abgesehen unsere Domains zensurresistent per IPFS bereitzustelle
 dass wir nicht kriminell sind sondern einfach Menschen inspirieren möchten gemeinsam Architekturen für
 Freiheit, Weltfrieden und Freundschaft zu erkunden.
 <p><br /></p>
-Falls<a href="https://www.youtube.com/watch?v=oPZK3l93LyI" target="_blank"> das hier </a> stimmt,
-ist es vielleicht wirklich Zeit, dass wir uns alle gegenseitig besser und respektvoller als bisher
-helfen wieder zur Vernunft zu kommen.
+Falls
+<a href="https://www.youtube.com/watch?v=oPZK3l93LyI" target="_blank"> das hier </a> stimmt, ist es
+vielleicht wirklich Zeit, dass wir uns alle gegenseitig besser und respektvoller als bisher helfen
+wieder zur Vernunft zu kommen.
 <p><br /></p>
 Unsere Experimente dienen dabei möglicherweise als einzelne schöne Töne in einem ganzen Orchester für
 Freiheit, Weltfrieden und Freundschaft.

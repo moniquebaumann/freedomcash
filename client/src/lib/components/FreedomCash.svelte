@@ -126,9 +126,9 @@
 		{#if invest}
 			<p><br /><br /><br /></p>
 			Bitte tausche unsere Freiheitswährungen lediglich mit friedliebenden Menschen, die jeden Menschen
-			auf der Welt mit Respekt behandeln.
+			mit Respekt behandeln.
 			<p><br /></p>
-			Falls Du noch niemanden kennst, der entsprechend auch schon Freiheitsgeld hat, kannst Du Freiheitsgeld
+			Falls Du noch niemanden kennst, der bereits Freiheitsgeld hat, kannst Du Freiheitsgeld
 			mit einem Browser Wallet wie
 			<a href="https://metamask.io" target="_blank">metamask.io</a> z.B. bei
 			<a href="https://app.uniswap.org/swap" target="_blank">uniswap.org</a>

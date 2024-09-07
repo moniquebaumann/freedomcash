@@ -63,9 +63,10 @@ Wir haben davon abgesehen unsere Domains zensurresistent per IPFS bereitzustelle
 dass wir nicht kriminell sind sondern einfach Menschen inspirieren möchten gemeinsam Architekturen für
 Freiheit, Weltfrieden und Freundschaft zu erkunden.
 `),$=l("p"),$.innerHTML=cn,lt=a(`
-Falls`),b=l("a"),b.textContent=Mn,rt=a(` stimmt,
-ist es vielleicht wirklich Zeit, dass wir uns alle gegenseitig besser und respektvoller als bisher
-helfen wieder zur Vernunft zu kommen.
+Falls
+`),b=l("a"),b.textContent=Mn,rt=a(` stimmt, ist es
+vielleicht wirklich Zeit, dass wir uns alle gegenseitig besser und respektvoller als bisher helfen
+wieder zur Vernunft zu kommen.
 `),ee=l("p"),ee.innerHTML=xn,st=a(`
 Unsere Experimente dienen dabei möglicherweise als einzelne schöne Töne in einem ganzen Orchester für
 Freiheit, Weltfrieden und Freundschaft.
@@ -138,9 +139,10 @@ Wir haben davon abgesehen unsere Domains zensurresistent per IPFS bereitzustelle
 dass wir nicht kriminell sind sondern einfach Menschen inspirieren möchten gemeinsam Architekturen für
 Freiheit, Weltfrieden und Freundschaft zu erkunden.
 `),$=r(e,"P",{"data-svelte-h":!0}),s($)!=="svelte-pntvnr"&&($.innerHTML=cn),lt=f(e,`
-Falls`),b=r(e,"A",{href:!0,target:!0,"data-svelte-h":!0}),s(b)!=="svelte-xuzzyy"&&(b.textContent=Mn),rt=f(e,` stimmt,
-ist es vielleicht wirklich Zeit, dass wir uns alle gegenseitig besser und respektvoller als bisher
-helfen wieder zur Vernunft zu kommen.
+Falls
+`),b=r(e,"A",{href:!0,target:!0,"data-svelte-h":!0}),s(b)!=="svelte-xuzzyy"&&(b.textContent=Mn),rt=f(e,` stimmt, ist es
+vielleicht wirklich Zeit, dass wir uns alle gegenseitig besser und respektvoller als bisher helfen
+wieder zur Vernunft zu kommen.
 `),ee=r(e,"P",{"data-svelte-h":!0}),s(ee)!=="svelte-pntvnr"&&(ee.innerHTML=xn),st=f(e,`
 Unsere Experimente dienen dabei möglicherweise als einzelne schöne Töne in einem ganzen Orchester für
 Freiheit, Weltfrieden und Freundschaft.
