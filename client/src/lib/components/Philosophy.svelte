@@ -17,7 +17,7 @@ Bitte erwägen Sie eine mögliche ehrliche und respektvolle Zusammenarbeit mit M
 Architekturen für Freiheit, Weltfrieden und Freundschaft
 <a href="https://www.youtube.com/watch?v=SGWIh9yzg-I" target="_blank">verstehen</a>.
 <p><br /></p>
-Wir nutzen eine klare Sprache. Bitte begreifen Sie das nicht als Beleidigung. <br>
+Wir nutzen eine klare Sprache. Bitte begreifen Sie das nicht als Beleidigung.<br />
 Wir fördern friedlich Freiheit, Weltfrieden und Freundschaft.
 <p><br /></p>
 Bitte vertreten Sie stets nach bestem Wissen und Gewissen auf friedliche Art und Weise die Interessen
@@ -40,30 +40,31 @@ Ihres jeweiligen Volkes. Das ist im ursprünglichen Sinne Ihr Job.
 <p><br /><br /><br /></p>
 <h4>Eine Bitte an Puppenspieler</h4>
 <p><br /></p>
-Bitte erkunden Sie inwieweit Freiheit für jeden, Weltfriede und Freundschaft sowie deren friedliche
-Emergenz tief in Ihrem Herzen auch in Ihrem Interesse sind.
+Bitte erkunden Sie inwieweit Freiheit für jeden, Weltfriede und Freundschaft sowie deren friedliche Emergenz
+auch in Ihrem Interesse sind.
 <p><br /></p>
-Sie waren es wahrscheinlich gewohnt Ihren Einfluß auszubauen indem Sie Menschen beförderten,
-die Ihnen gegenüber blind gehorsam sind und zu allem was Sie sagen Ja sagen.
+Sie waren es wahrscheinlich gewohnt Ihren Einfluß auszubauen indem Sie Menschen beförderten, die Ihnen
+gegenüber blind gehorsam sind und zu allem was Sie sagen Ja sagen.
 <p><br /></p>
-Das birgt die Gefahr, dass Sie neue gute Konzepte erst spät erkennen und wertschätzen können weil Sie erst spät davon erfahren. 
-
-
+Das birgt die Gefahr, dass Sie neue gute Konzepte erst spät erkennen und wertschätzen können weil Sie
+erst spät davon erfahren.
 
 <p><br /><br /><br /></p>
 <h4>Eine Bitte an Alle</h4>
 <p><br /></p>
-Bitte behandelt jeden mit Respekt. <p><br></p> 
-Wenn jeder mitmacht, haben wir Weltfrieden noch vor morgen früh. <p><br></p>
+Bitte behandelt jeden mit Respekt.
+<p><br /></p>
+Wenn jeder mitmacht, haben wir Weltfrieden noch vor morgen früh.
+<p><br /></p>
 Jeder kann und sollte vielleicht bei sich selbst beginnen.
 <p><br /><br /><br /></p>
 
 <h4>Geschichte</h4>
-<p></p>
-Wir wissen nicht genau wieviele von den Aussagen 100 prozentig korrekt sind.
+<p><br /></p>
+Wir wissen nicht genau wieviele von den Aussagen im Film korrekt sind.
 <p><br /></p>
 Bitte prüfen Sie bei Interesse selbst.
-<p><br /></p>
+<p><br /><br /><br /></p>
 
 <div class="iframediv">
 	<iframe
@@ -78,15 +79,17 @@ Bitte prüfen Sie bei Interesse selbst.
 </div>
 <p><br /><br /><br /></p>
 <h4>Zensur</h4>
+<p><br /></p>
 Wir haben davon abgesehen unsere Domains zensurresistent per IPFS bereitzustellen. Wir möchten klar machen,
 dass wir nicht kriminell sind sondern einfach Menschen inspirieren möchten gemeinsam Architekturen für
 Freiheit, Weltfrieden und Freundschaft zu erkunden.
 <p><br /></p>
-Falls <a href="https://www.youtube.com/watch?v=oPZK3l93LyI" target="_blank">das hier</a> stimmt, ist es vielleicht wirklich Zeit, dass wir uns alle gegenseitig besser und respektvoller als bisher helfen wieder zur Vernunft zu kommen.
-<p><br></p>
-Unsere Experimente dienen dabei möglicherweise als einzelne schöne Töne in einem ganzen Orchester für Freiheit,
-Weltfrieden und Freundschaft. 
-
+Falls<a href="https://www.youtube.com/watch?v=oPZK3l93LyI" target="_blank">das hier</a> stimmt, ist
+es vielleicht wirklich Zeit, dass wir uns alle gegenseitig besser und respektvoller als bisher
+helfen wieder zur Vernunft zu kommen.
+<p><br /></p>
+Unsere Experimente dienen dabei möglicherweise als einzelne schöne Töne in einem ganzen Orchester für
+Freiheit, Weltfrieden und Freundschaft.
 
 <p><br /><br /><br /></p>
 <h4>Individuelle Freiheit</h4>
@@ -101,8 +104,7 @@ Zu diesem Zweck sind freiheitliche Währungen nicht regierungsspezifisch sondern
 sollte wahrscheinlich grundsätzlich seine eigene Währung gestalten können und frei entscheiden können
 welche Währungen er wofür nutzen möchte.
 <p><br /></p>
-Da wir Respekt für alle Menschen überall auf der ganzen Welt haben, glauben wir, dass dies eine gute
-Idee ist.
+Da wir Respekt für alle Menschen haben, glauben wir, dass dies eine gute Idee ist.
 
 <p><br /><br /><br /></p>
 <div class="iframediv">
@@ -118,7 +120,6 @@ Idee ist.
 </div>
 
 <p><br /><br /><br /></p>
-
 
 <h4>Freunde</h4>
 <p><br /></p>
@@ -148,11 +149,14 @@ meinungsfreiheitliche Alternative gegenüber youtube.
 </div>
 <p><br /><br /></p>
 <h4>Scams</h4>
-Leider gab es zumindest bisher im Crypto Space wirklich viele Scammer. Deshalb möchten wir jeden inspirieren
-lediglich mit sehr kleinen Beträgen zu experimentieren. Gerade für Neueinsteiger gab es zumindest bisher
-ein hohes Risiko von irgendeinem Scammer abgezockt zu werden. Falls im Internet oder im echten Leben
-Leute auftauchen, die sich als Monique Baumann oder als Verantwortliche für unsere Seiten ausgeben, handelt
-es sich vielleicht mit einer hohen Wahrscheinlichkeit um Scammer.
+<p><br /></p>
+Leider gab es zumindest bisher im Crypto Space viele Scammer. Deshalb möchten wir jeden inspirieren lediglich
+mit sehr kleinen Beträgen zu experimentieren.
+<p><br /></p>
+Gerade für Neueinsteiger gab es zumindest bisher ein hohes Risiko von Scammern abgezockt zu werden.
+<p><br /></p>
+Falls im Internet oder im echten Leben Leute auftauchen, die sich als Monique Baumann oder als Verantwortliche
+für unsere Seiten ausgeben, handelt es sich vielleicht um Scammer.
 
 <p><br /></p>
 
@@ -165,13 +169,14 @@ sind <a href="https://github.com/moniquebaumann/freedomcash" target="_blank"> Op
 </p>
 <p>
 	<br />Falls Du eine Schwachstelle entdeckst, kannst du eine Fehlermeldung via
-	<a href="https://github.com/moniquebaumann/freedomcash/issues/new" target="_blank">GitHub</a> beisteuern.
-	Zusätzlich kannst Du auch auch die passende Lösung per Pull Request bereitstellen.
+	<a href="https://github.com/moniquebaumann/freedomcash/issues/new" target="_blank">GitHub Issue</a>
+	beisteuern. Zusätzlich kannst Du die passende Lösung per
+	<a href="https://github.com/moniquebaumann/freedomcash/pulls" target="_blank"> Pull Request</a> bereitstellen.
 </p>
 <p><br /></p>
 <div id="impressum">
 	<h4>Impressum</h4>
-	Es handelt sich bei unseren Projekten nicht um gewerbliche Projekte sondern um Open Source Bildungsprojekte
+	Es handelt sich bei unseren Projekten nicht um gewerbliche Projekte sondern um <a href="https://github.com/moniquebaumann/freedomcash" target="_blank">Open Source</a> Bildungsprojekte
 	ohne Gewinnerzielungsabsicht unsererseits. Wir sind bereits frei.
 	<p><br /></p>
 	Aus diesen Gründen verzichten wir auf ein

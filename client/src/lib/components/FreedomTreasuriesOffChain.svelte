@@ -21,47 +21,25 @@
 	});
 </script>
 
-Bitte generiere auch Du <a href="https://freiheitsgeld.de/freedomWallets" target="_blank"
-	>Freiheitsgeldbeutel</a
->.
+<p><br><br><br></p>
+<h6>Mitmachen</h6>
+<p><br></p>
+Jeder kann <a href="https://freiheitsgeld.de/freedomWallets" target="_blank"
+	>Freiheitsgeldbeutel generieren</a
+>, <a href="https://www.geckoterminal.com/polygon_pos/pools/0x3fed6f32655da35c20b8fb3452006309b1d64a97" target="_blank">Schweizer</a> transferieren und <a href="https://rumble.com/c/c-5722872/videos" target="_blank">konservieren</a>.
 
-<p><br /></p>
-Transferiere dann eine kleine Menge Deiner
-<a
-	href="https://www.geckoterminal.com/polygon_pos/pools/0xd38acec059220e8ce1a50783490b73a4a5422368"
-	target="_blank"
->
-	Freiheit Coins
-</a>,
-<a
-	href="https://www.geckoterminal.com/polygon_pos/pools/0x0296f6ea1f02083b99ae59200d00f5257473f17c"
-	target="_blank"
->
-	Friede Coins
-</a>
-oder
-<a href="https://polygonscan.com/token/0xb841A4f979F9510760ecf60512e038656E68f459" target="_blank">
-	Geo Cash Coins
-</a>
-auf die zusätzlich von Dir generierten Freiheitsgeldbeutel.
-
-<p><br /></p>
-Schenke diese dann befüllten Freiheitsgeldbeutel weiter an freiheitsliebende, friedliebende Menschen,
-die jeden Menschen mit Respekt behandeln.
-<p><br /><br /></p>
+<!-- <p><br /><br /></p>
 {#if dataLoaded}
 	<MapOfTreasuries treasuries={enrichedTreasuries} offchain={true}></MapOfTreasuries>
 {/if}
 
 <p><br /></p>
 
-Du kannst Deine Freiheitsgeldbeutel auch einfach irgendwo verstecken.
+Du kannst Deine Freiheitsgeldbeutel auch einfach irgendwo verstecken. -->
 <p><br /></p>
-Du kannst diese Verstecke als Geo Caching Rätsel
-<a href="https://rumble.com/c/c-5722872/videos" target="_blank">per Video</a> oder durch Klick auf
-die obige Karte öffentlich machen.
-<p><br /></p>
-Du kannst Deine Verstecke natürlich auch einfach für Dich behalten.
+Du kannst Verstecke als Geo Caching Rätsel
+<a href="https://rumble.com/c/c-5722872/videos" target="_blank">per Video</a> öffentlich machen.
+<!-- Du kannst Deine Verstecke natürlich auch einfach für Dich behalten. -->
 <p><br /><br><br></p>
 <div class="videoDiff">
 	<object
