@@ -52,10 +52,7 @@
 	<h4>Initiale Verteilung</h4>
 	<p><br /></p>
 
-	<a href="https://github.com/moniquebaumann/friends-of-satoshi/blob/main/README.md" target="_blank"
-		>Wir</a
-	>
-	fördern zuerst eine breite initiale Verteilung.
+	Wir fördern zuerst eine breite initiale Verteilung.
 	<p><br /></p>
 	Danach hinterlegen wir einen passenden Gegenwert, um
 	<a href="https://www.youtube.com/watch?v=fW8amMCVAJQ" target="_blank">die Party</a>

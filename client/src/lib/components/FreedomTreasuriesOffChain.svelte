@@ -24,7 +24,7 @@
 <p><br><br><br></p>
 <h6>Mitmachen</h6>
 <p><br></p>
-Jeder kann <a href="https://freiheitsgeld.de/freedomWallets" target="_blank"
+Jeder kann <a href="https://freedomcash.org/freedomWallets" target="_blank"
 	>Freiheitsgeldbeutel generieren</a
 >, <a href="https://www.geckoterminal.com/polygon_pos/pools/0x3fed6f32655da35c20b8fb3452006309b1d64a97" target="_blank">Schweizer</a> transferieren und <a href="https://rumble.com/c/c-5722872/videos" target="_blank">konservieren</a>.
 

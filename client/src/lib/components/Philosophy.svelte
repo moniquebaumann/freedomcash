@@ -84,8 +84,8 @@ Wir haben davon abgesehen unsere Domains zensurresistent per IPFS bereitzustelle
 dass wir nicht kriminell sind sondern einfach Menschen inspirieren möchten gemeinsam Architekturen für
 Freiheit, Weltfrieden und Freundschaft zu erkunden.
 <p><br /></p>
-Falls<a href="https://www.youtube.com/watch?v=oPZK3l93LyI" target="_blank">das hier</a> stimmt, ist
-es vielleicht wirklich Zeit, dass wir uns alle gegenseitig besser und respektvoller als bisher
+Falls<a href="https://www.youtube.com/watch?v=oPZK3l93LyI" target="_blank"> das hier </a> stimmt,
+ist es vielleicht wirklich Zeit, dass wir uns alle gegenseitig besser und respektvoller als bisher
 helfen wieder zur Vernunft zu kommen.
 <p><br /></p>
 Unsere Experimente dienen dabei möglicherweise als einzelne schöne Töne in einem ganzen Orchester für
@@ -169,15 +169,19 @@ sind <a href="https://github.com/moniquebaumann/freedomcash" target="_blank"> Op
 </p>
 <p>
 	<br />Falls Du eine Schwachstelle entdeckst, kannst du eine Fehlermeldung via
-	<a href="https://github.com/moniquebaumann/freedomcash/issues/new" target="_blank">GitHub Issue</a>
+	<a href="https://github.com/moniquebaumann/freedomcash/issues/new" target="_blank">GitHub Issue</a
+	>
 	beisteuern. Zusätzlich kannst Du die passende Lösung per
 	<a href="https://github.com/moniquebaumann/freedomcash/pulls" target="_blank"> Pull Request</a> bereitstellen.
 </p>
 <p><br /></p>
 <div id="impressum">
 	<h4>Impressum</h4>
-	Es handelt sich bei unseren Projekten nicht um gewerbliche Projekte sondern um <a href="https://github.com/moniquebaumann/freedomcash" target="_blank">Open Source</a> Bildungsprojekte
-	ohne Gewinnerzielungsabsicht unsererseits. Wir sind bereits frei.
+	Es handelt sich bei unseren Projekten nicht um gewerbliche Projekte sondern um<a
+		href="https://github.com/moniquebaumann/freedomcash"
+		target="_blank">Open Source</a
+	>
+	Bildungsprojekte ohne Gewinnerzielungsabsicht unsererseits. Wir sind bereits frei.
 	<p><br /></p>
 	Aus diesen Gründen verzichten wir auf ein
 	<a href="https://www.youtube.com/watch?v=I6jaruQuBhM" target="_blank"> klassisches Impressum</a>.
