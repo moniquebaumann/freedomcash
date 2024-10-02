@@ -5,7 +5,7 @@
 [Geo-Caching.org](https://Geo-Caching.org)
 
 ## Unsere Ziele
-Wir möchten Menschen für Freiheit, Weltfrieden und Freundschaft begeistern.
+Wir begeistern Menschen für Freiheit, Weltfrieden und Freundschaft.
 
 ## Über uns 
 Wir sind Freunde von Satoshi.  
